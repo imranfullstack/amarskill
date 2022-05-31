@@ -1,0 +1,264 @@
+
+.video-btm-56c9sdc {
+    text-align: right;
+}
+.video-btm-56c9sdc ul {
+    margin: 0;
+    padding: 0;
+}
+.video-btm-56c9sdc ul li {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    display: inline-block;
+    padding: 0 9px;
+}
+
+.top-play-count {
+    background: #084496;
+    color: #fff;
+    padding: 10px 21px;
+    border-top: 4px solid #78aaee;
+}
+
+.top-play-count h3 {
+    margin: 0;
+}
+
+.video-play-list-dkclc0dfcd {
+    overflow: auto;
+    height: 80vh;
+    border: 1px solid #ececec;
+}
+
+.sectionorplaylist-video-dkslsdk ul {
+    margin: 0;
+    padding: 0;
+}
+
+.sectionorplaylist-video-dkslsdk ul li {
+    margin: 0;
+    padding: 15px 0px;
+    list-style: none;
+    border-bottom: 1px solid #0844961a;
+}
+.video-title-dkdls0c3s3d ul li {
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+    border-bottom: none;
+}
+.sectionorplaylist-video-dkslsdk ul li:last-child {
+    border-bottom: none;
+}
+
+.row.video-btm-ddkcld {
+    padding: 0px 30px;
+    margin-top: 25px;
+}
+.instructors-title-26d3 h4 a {
+    color: #084496;
+}
+p.short-description-dksldlc {
+    color: #000;
+    line-height: 33px;
+}
+.inform-dksld-c03s6d {
+    padding: 17px 0px;
+    border-top: 1px solid #d6d6d6;
+    margin: 20px 0px;
+}
+.inform-dksld-c03s6d p {
+    color: #000;
+    line-height: 33px;
+    font-size: 14px;
+}
+
+.inform-dksld-c03s6d h3 {
+    font-size: 22px;
+    text-transform: uppercase;
+}
+.table-aria-dksldldc * {
+    padding: 16px !important;
+    color: #000;
+    line-height: 30px !important;
+}
+.video-btm-56c9sdc ul li a {
+    color: #000;
+    font-weight: 700;
+    line-height: 27px;
+}
+.Instructor-profile-dkclsd002d2c {
+    border: 1px solid #08449617;
+}
+
+.Detels-info-dkd6351c2sd p {
+    color: #000;
+    line-height: 28px;
+}
+
+.list-of-info-kdlsl749 ul {
+    margin: 0;
+    padding: 0;
+}
+
+.list-of-info-kdlsl749 ul li {
+	list-style: none;
+	padding: 6px 0px;
+}
+.instructor-body-aria-d0c6s96d47 {
+    padding: 30px 15px;
+}
+
+.list-of-info-kdlsl749 {
+    margin-bottom: 15px;
+}
+
+.list-of-info-kdlsl749 {}
+
+.list-of-info-kdlsl749 ul li a {
+    color: #084496;
+    font-weight: 700;
+}
+.list-of-info-kdlsl749 h5 {
+    margin: 4px 0;
+}
+.list-of-info-kdlsl749 h5 a {
+    color: #000;
+    font-size: 18px;
+    text-transform: uppercase;
+}
+.right-btm-single-paylist-course h4.panel-title i {
+    float: right;
+}
+
+
+
+.right-btm-single-paylist-course h4.panel-title a.collapsed i {
+	transform: rotate(270deg);
+}
+.single-play-list-dlsid .panel-heading {
+    background: #fff;
+}
+.single-play-list-dlsid .panel-heading a{
+	text-decoration: none;
+}
+.top-play-count h3 {
+    font-size: 17px;
+}
+.col-md-3.right-assiment-d0c3sd {
+    padding-right: 0px;
+}
+
+.center-video-section-1663d {
+    height: 80vh;
+    overflow: auto;
+    width: 100%;
+}
+
+.video-title-dkdls0c3s3d h5 {
+    color: #000;
+}
+.video-play-list-dkclc0dfcd a {
+    color: #000;
+}
+
+.video-title-dkdls0c3s3d i {
+    color: #084496;
+}
+
+.col-md-3.right-assiment-d0c3sd .video-play-list-dkclc0dfcd {
+    border-left: 1px solid #dcdcdc;
+}
+
+.right-assiment-d0c3sd .sectionorplaylist-video-dkslsdk ul li {
+    padding: 5px 0px;
+}
+.right-dkdlsldd ul li h5 i {
+    color: #084496;
+}
+
+
+/*--------------- Mobile Style ---------------*/
+
+
+.mobile-top-aria .login-btm-top-mobile {
+    text-align: right;
+}
+
+.mobile-top-aria .login-btm-top-mobile ul li {
+    list-style: none;
+    display: inline-block;
+    padding: 0px 7px;
+    font-weight: 700;
+}
+.mobile-top-aria * :hover{
+    color: #fff;
+}
+
+.mobile-top-aria {
+    background: #084496;
+    padding: 10px 15px;
+    display: block;
+}
+.mobile-top-aria * {
+    color: #fff;
+}
+
+
+
+
+
+
+@media screen and (min-width: 768px) {
+    .right-course-aria.mobile-d1d2c3sd {
+        display: none;
+    }
+    .mobile-top-aria {
+        display: none;
+    }
+}
+
+@media screen and (max-width: 768px) {
+
+    .center-video-section-1663d iframe {
+    width: 100%;
+    height: 200px;
+    }
+
+    .row.video-btm-ddkcld {
+        margin-top: 0px;
+    }
+
+
+    section.page-banner {
+        text-align: left;
+    }
+.video-btm-56c9sdc {
+    text-align: left;
+}
+    .page-nav-left h3 {
+        font-size: 18px;
+        line-height: 21px;
+    }
+
+    .right-nav-top-aria {
+        float: left;
+        margin-top: 4px;
+    }
+
+    section.page-banner {
+        padding: 13px 0px;
+    }
+    .col-md-3.right-course-aria.desktop-d1d2c3sd {
+        display: none;
+    }
+    .video-play-list-dkclc0dfcd {
+        height: unset;
+    }
+    .center-video-section-1663d {
+        height: unset;
+        overflow: unset;
+    }
+
+}

@@ -1,0 +1,79 @@
+.page-nav-left h4 {
+    margin: 0;
+}
+
+
+
+section.page-banner.profile-dlskdc nav.navbar.navbar-default {
+    margin: 0;
+    padding: 0;
+}
+
+section.page-banner.profile-dlskdc .navbar-default {
+    background-color: unset;
+    border-color: unset;
+}
+section.page-banner.profile-dlskdc  .navbar {
+    border-radius: unset;
+    border: none;
+}
+
+section.page-banner.profile-dlskdc div#bs-example-navbar-collapse-1 {
+    margin: 0;
+    padding: 0;
+}
+
+.right-nav-top-aria ul li {
+    padding: 0 0px;
+}
+
+section.page-banner.profile-dlskdc .navbar-default .navbar-nav>li>a {
+    color: #fff;
+}
+
+section.page-banner.profile-dlskdc .navbar-default .navbar-nav>.open>a {
+    background-color: unset;
+}
+.page-nav-left h3 {
+    color: #fff;
+    text-transform: uppercase;
+}
+
+section.page-banner.profile-dlskdc ul li a {
+    font-weight: 700;
+    text-transform: uppercase;
+}
+a.dropdown-toggle.imgd-sc0cs img {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+
+section.page-banner.profile-dlskdc  li.dropdown {
+    margin: -10px 0px;
+}
+
+section.page-banner.profile-dlskdc ul.dropdown-menu li a {
+    font-weight: 500 !important;
+    line-height: 30px;
+    text-transform: capitalize;
+}
+a.course-single-btn.btn-block {
+    text-align: center;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    font-weight: 400;
+}
+
+.btn-common-dksld {
+    margin-bottom: 6px;
+}
+
+.single-form-dlksld {
+    margin: 10px 0px;
+}
+
+
+.btn-common-dksld {
+    margin-bottom: 7px;
+}

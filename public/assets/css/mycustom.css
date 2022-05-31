@@ -1,0 +1,106 @@
+
+/*------------- My Custom CSS*/
+
+.logo-wrapper img.img-fluid {
+    width: 51px !important;
+}
+.message {
+    background: #000 !important;
+}
+p.f-12 {
+    color: #000 !important;
+}
+.media-body p {
+    color: #164f9c !important;
+}
+.dark-logo-wrapper a img {
+    max-width: 51px;
+}
+.page-wrapper.compact-wrapper .page-body-wrapper header.main-nav .main-navbar .nav-menu .dropdown ul.nav-submenu li:hover a {
+    color: #164f9c;
+}
+
+
+li.sidebar-main-title div {
+    margin: 0 !important;
+    padding-bottom: 0px !important;
+}
+
+li.sidebar-main-title div h6 {
+    font-size: 12px !important;
+    text-transform: uppercase;
+    line-height: 27px;
+}
+.card-header {
+    padding-bottom: 0px !important;
+}
+
+.col-sm-12.col-xl-3.form-right ul li a {
+    display: block;
+    padding: 12px 0px !important;
+    font-weight: 700;
+}
+.btn-width-full {
+    width: 100%;
+}
+.card-header.pb-0.heading-style {
+    margin: 0;
+    background: #c9d6e8;
+    padding: 2px 23px;
+    display: inline-block;
+    color: #104a99;
+}
+.card-header.pb-0.heading-stylem.top {
+    margin: 0;
+    background: #c9d6e8;
+    padding: 6px 14px;
+    display: block;
+    color: #164f9c;
+    padding-bottom: 6px !important;
+}
+.page-wrapper .page-body-wrapper .page-header {
+    padding: 8px 0px;
+}
+.page-header.top-heading-form-26d6c h5 {
+    margin: 0;
+    padding: 5px 17px;
+    display: inline-block;
+    color: #164f9c;
+}
+.card-header.pb-0.heading-stylem.top h6 {
+    padding-top: 6px;
+}
+.heading-style h6 {
+    padding: 10px 0px 3px !important;
+}
+.right-alagin {
+    text-align: right;
+}
+a.btn-dkd42c {
+    background: #fff;
+    padding: 6px 17px;
+    display: inline-block;
+    border-radius: 21px;
+    font-weight: 700;
+}
+.card-header.pb-0.heading-style {
+    width: 100%;
+}
+div#mceu_39 {
+    display: none !important;
+}
+
+div#example_wrapper .dt-buttons {
+    display: inline-block;
+}
+div#example_wrapper .dt-buttons a {
+    padding: 13px 15px 13px 15px;
+    display: inline-block;
+    background: #c9d6e8;
+    color: #000;
+    text-transform: uppercase;
+}
+.right-alagin .card-body.dropdown-basic {
+    margin: 0;
+    padding: 0;
+}
